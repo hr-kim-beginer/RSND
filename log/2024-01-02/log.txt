@@ -1,0 +1,15 @@
+2024-01-02 15:03:19.875804	[debug]롤프레스 자동보정 프로그램 실행 중(squence : 100)
+2024-01-02 15:03:19.876735	[debug]HMI PARAMETER 정상
+2024-01-02 15:03:19.877819	[debug]정지중 program 시작, 다음 설비 정지시 Back up 후 재조건조정 실행 
+2024-01-02 15:03:19.878451	[debug]설비 운전 대기
+2024-01-02 15:03:19.882738	PIE DB에 작성...heartbeat : 1
+2024-01-02 15:03:19.882738	PIE DB에 작성...f_interlock : 1
+2024-01-02 15:03:19.883740	PIE DB에 작성...s_interlock : 1
+2024-01-02 15:03:19.883740	PIE DB에 작성...f_range : -3720.0
+2024-01-02 15:03:19.883740	PIE DB에 작성...s_range : 6280.0
+2024-01-02 15:03:19.883740	PIE DB에 작성...f_gap_control_lower_limit : -50
+2024-01-02 15:03:19.883740	PIE DB에 작성...f_gap_control_upper_limit : 50
+2024-01-02 15:03:19.884739	PIE DB에 작성...s_gap_control_lower_limit : -50
+2024-01-02 15:03:19.884739	PIE DB에 작성...s_gap_control_upper_limit : 50
+2024-01-02 15:03:19.884739	PIE DB에 작성...loadcell_zero_set : 15
+2024-01-02 15:03:19.884739	PIE DB에 작성...handshake : 1

@@ -1,0 +1,1 @@
+2023-12-05 17:42:38.149765	[critical]data update 에러...module 'header' has no attribute 'FDS_POS_VAL'

@@ -1,0 +1,5 @@
+2024-02-02 13:18:51.276712	[debug]롤프레스 자동보정 프로그램 실행중
+2024-02-02 13:18:51.277713	[Prepress][debug]재조건조정 SW OFF
+2024-02-02 13:18:51.278412	[Revcontrol][debug]역압자동보정 SW OFF
+2024-02-02 13:18:51.281675	[rollpress]PIE DB에 작성...heartbeat : 1
+2024-02-02 13:18:51.282727	[rollpress]PIE DB에 작성...handshake : 1
